@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on Space Dodge  
 - 📫 How to reach me? Message me on Discord my username is the same, or email me at spacexplorer11@proton.me
 - 😄 Pronouns: he/him  
-- ⚡ Fun fact: I also love acting!  
+- ⚡ Fun fact: I also love acting!
+- 🔑 Signed Commits: From 5th of April 2025, I sign all my commits, any unsigned commits will be reported here:
 
 <!---
 Spacexplorer11/Spacexplorer11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
