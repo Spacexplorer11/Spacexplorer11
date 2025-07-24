@@ -19,6 +19,10 @@ Now thats all the boring, template stuff, lets get to some live stats!
 #### What I'm working on (based on latest push)
 
 ![Latest Push](https://api.akaalroop.com/github/latest-push)
+
+### GitHub Stats (General)
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=spacexplorer11&show_icons=true&locale=en" alt="spacexplorer11 stats" />
 <!---
 Spacexplorer11/Spacexplorer11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
