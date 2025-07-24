@@ -11,6 +11,8 @@ Now thats all the boring, template stuff, lets get to some live stats!
 
 ## Statistics
 
+### Hackatime 
+
 <!---
 Spacexplorer11/Spacexplorer11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
