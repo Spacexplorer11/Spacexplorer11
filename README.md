@@ -12,6 +12,7 @@ Now thats all the boring, template stuff, lets get to some live stats!
 ## Statistics
 
 ### Hackatime 
+![Hackatime stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=835&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=github_dark_dimmed)
 
 <!---
 Spacexplorer11/Spacexplorer11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
