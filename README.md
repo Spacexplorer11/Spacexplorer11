@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Akaalroop!  
 - 👀 I’m interested in coding, and anything to do with technology  
-- 🌱 I’m currently learning Rust and very interested in it! I'm making my first rust project([CloudCat](https://github.com/Spacexplorer11/CloudCat)) as well!  
+- 🌱 I’m currently wanna keep practising Rust! I made my first rust game([CloudCat](https://github.com/Spacexplorer11/CloudCat)) as well!  
 - 💞️ I’m looking to collaborate on all my projects!  
-- 📫 How to reach me? Message me on Discord (my username is the same), or email me at [akaal@akaalroop.com](mailto:akaal@akaalroop.com)
+- 📫 How to reach me? Message me on Discord (my username is the same), email me at [akaal@akaalroop.com](mailto:akaal@akaalroop.com), text me on Signal (spacexplorer.11) or DM me on [X](https://x.com/spacexplorer11_)
 - 👨 Pronouns: he/him  
 - ⚡ Fun fact: I also love acting!
 - 📧 Email: I made my own email using my custom domain! [akaal@akaalroop.com](mailto:akaal@akaalroop.com)!! It's very awesome! Drop me an email, and when I reply, you'll see a checkmark (shown on Apple & Outlook) to show my mail is signed!
