@@ -23,6 +23,11 @@ Now thats all the boring, template stuff, lets get to some live stats!
 ### GitHub Stats (General)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=spacexplorer11&show_icons=true&locale=en" alt="spacexplorer11 stats" />
+
+### How to support me?
+I **really, really, really** appreciate your support as I do this work for passion and I don't make much out of it (only revenue is mere cents from Modrinth), so your support will be **greatly** appreciated and it will help do what I do, and make my life better. You don't need to give a lot, just whatever you can, will help make my life a lot better, and allow me to learn and thrive. Thank you <3 You can support me via [Github Sponsors](https://github.com/sponsors/Spacexplorer11/) on my profile or [Buy Me A Coffee](https://www.buymeacoffee.com/spacexplorer11) ⬇️  
+<a href="https://www.buymeacoffee.com/spacexplorer11" target="_blank" style="cursor: pointer;"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
 <!---
 Spacexplorer11/Spacexplorer11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
