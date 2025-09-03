@@ -12,7 +12,15 @@ Now thats all the boring, template stuff, lets get to some live stats!
 ## Statistics
 
 ### Hackatime 
-![Hackatime stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=835&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=catppuccin_mocha)
+![Hackatime stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=835&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=catppuccin_mocha)  
+
+#### Heatmap
+<a href="https://heatmap.shymike.dev?id=U08D22QNUVD&theme=catppuccin_dark&timezone=Europe/London&padding=5&standalone=true" title="Click to view detailed data for each day!">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://heatmap.shymike.dev?id=U08D22QNUVD&theme=catppuccin_dark&timezone=Europe/London&padding=5">
+        <img alt="Hackatime activity heatmap" src="https://heatmap.shymike.dev?id=U08D22QNUVD&theme=catppuccin_dark&timezone=Europe/London&padding=5">
+    </picture>
+</a>
 
 ### Github
 
